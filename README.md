@@ -1,0 +1,2 @@
+# Leaf_Disease_Detection_Image_Classification
+Implementation of leaf disease detection through Image classification using transfer learning approach
